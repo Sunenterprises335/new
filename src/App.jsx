@@ -1433,12 +1433,12 @@ const ModernFooter = ({ setCurrentPage }) => {
             <h4 className="text-sm font-bold mb-4 text-gray-900 uppercase tracking-widest">Reach Us</h4>
             <p className="text-gray-600 mb-2 text-sm">PAP-A13, T.T.C. Industrial Area, Navi Mumbai - 710.</p>
             <p className="text-gray-600 mb-2 text-sm font-medium">sun.enterprises204@gmail.com</p>
-            <p className="text-gray-900 text-sm font-bold">+91 93248 44364</p>
+            <p className="text-gray-900 text-sm font-bold">+91 93204 04204</p>
           </div>
         </div>
 
         <div className="text-center text-xs text-gray-500 pt-8">
-          © {new Date().getFullYear()} Sun Enterprises. All rights reserved.
+          © {new Date().getFullYear()} Sun Enterprises. All rights reserved | Designed with ❤️ 
         </div>
       </div>
     </motion.footer>
